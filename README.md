@@ -94,4 +94,4 @@ This project is **not open source**. Viewing is permitted for personal evaluatio
 - **World clock chronological ordering fixed**
 
 #### ✨ Improvements
-- **Timezone search added** — A live search input now appears alongside the "World clock (live)" heading. Users can filter the list by city name, timezone abbreviation, or UTC offset (e.g. `+6`, `PST`, `Tokyo`).
+- **Timezone search added** — A live search input now appears alongside the "World clock (live)" heading. Users can filter the list by city name, timezone abbreviation, or UTC offset (e.g. `+6`, `PST`, `Japan`).
