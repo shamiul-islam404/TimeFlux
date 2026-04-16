@@ -40,7 +40,7 @@ Track upcoming solar eclipses, meteor showers, moon phases, planetary opposition
 
 **Local preview:**
 
-Simply open [TimeFlux](https://time-flux-amber.vercel.app/) directly in your browser.
+Simply open [TimeFlux](https://time-flux-main.vercel.app/) directly in your browser.
 
 ---
 
