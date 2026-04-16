@@ -68,3 +68,30 @@ This project is **not open source**. Viewing is permitted for personal evaluatio
 
 **Shamiul Islam**
 [github.com/shamiul-islam404](https://github.com/shamiul-islam404)
+
+---
+
+## 📋 Changelog
+
+### [2026-04-16 — 22:56 UTC+6]
+
+#### 🐛 Bug Fixes
+- **World clock DST contamination fixed**
+- **Force offset mechanism removed**
+
+#### ✨ Improvements
+- **Desktop and Android layout improved**
+
+---
+
+### [2026-04-16 — 13:32 UTC+6]
+
+#### 🐛 Bug Fixes
+- **Baker Island UTC offset corrected**
+
+- **UTC+13 / UTC+14 tail wrap bug fixed**
+
+- **World clock chronological ordering fixed**
+
+#### ✨ Improvements
+- **Timezone search added** — A live search input now appears alongside the "World clock (live)" heading. Users can filter the list by city name, timezone abbreviation, or UTC offset (e.g. `+6`, `PST`, `Tokyo`).
