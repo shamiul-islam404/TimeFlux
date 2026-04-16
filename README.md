@@ -36,7 +36,6 @@ Track upcoming solar eclipses, meteor showers, moon phases, planetary opposition
 - Dark and light theme with a smooth toggle
 - Fully responsive — works on mobile, tablet, and desktop
 - Typography: DM Serif Display, DM Mono, DM Sans
-- 
 
 **Local preview:**
 
